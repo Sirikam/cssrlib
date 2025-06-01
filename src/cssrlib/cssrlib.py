@@ -22,6 +22,7 @@ class sCSSRTYPE(IntEnum):
     SBAS_L5 = 9      # L5 SBAS (DFMC)
     DGPS = 10        # DGPS (QZSS SLAS)
     STDPOS = 11
+    SSRZ = 12        #SSRZ decrypted data
 
 
 class sGNSS(IntEnum):
@@ -1315,3 +1316,6 @@ class cssr:
             bs.pack_into(fmt, self.buff, j, b[0])
             j += sz
         self.fcnt = self.fcnt+1
+
+##own bullshit for understanding
+

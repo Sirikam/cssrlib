@@ -2,6 +2,22 @@
 CSSRlib - Toolkit for PPP-RTK/RTK in Python using Compact SSR
 *************************
 
+Fork Specific changes:
+*************************
+This version contain the following changes compared to the source:
+- Implementation of the SSRZ correction format
+- Change to the calululation setup so the new format cna be used interchangeably
+- Example setup of implementation of using the PPP-RTK method
+
+This work was done in connection with my master thesis work, any 
+future use of this code is subject to the license under which the 
+original work was created. 
+
+Diclaimer:
+The goal of the work was not to achieve high accuracy coordinates, but to manage to 
+adapt the SSRZ SSR format, as such the implemented PPP_RTK adaptation is still not 
+properly calibrated. 
+
 # What is CSSRlib?
 
 CSSRLIB is a open toolkit in Python for high accuracy GNSS positioning. It supports SSR (State-Space Representation) based positioning for PPP (Precise Point Positioning) or PPP-RTK (Realtime Kinematic), while also supporting RTK. The goal of the CSSRlib toolkit is to provide an easy-to-understand open implementation to learn PPP/PPP-RTK positioning provided by satellite-based open PPP/PPP-RTK services such as QZSS CLAS, Galileo HAS, and BeiDou 3 PPP. It also supports ground based open service by IGS. The code is based on RTKlib.

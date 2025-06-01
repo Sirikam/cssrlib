@@ -3,12 +3,12 @@ module for RINEX 3.0x processing
 """
 
 import numpy as np
-from cssrlib.gnss import uGNSS, uTYP, rSigRnx
-from cssrlib.gnss import bdt2gpst, time2bdt
-from cssrlib.gnss import gpst2time, bdt2time, epoch2time, timediff, gtime_t
-from cssrlib.gnss import prn2sat, char2sys, timeget, utc2gpst, time2epoch
-from cssrlib.gnss import Eph, Geph, Obs, sat2id, sat2prn, gpst2bdt, time2gpst
-from cssrlib.gnss import timeadd, id2sat, gpst2utc
+from src.cssrlib.gnss import uGNSS, uTYP, rSigRnx
+from src.cssrlib.gnss import bdt2gpst, time2bdt
+from src.cssrlib.gnss import gpst2time, bdt2time, epoch2time, timediff, gtime_t
+from src.cssrlib.gnss import prn2sat, char2sys, timeget, utc2gpst, time2epoch
+from src.cssrlib.gnss import Eph, Geph, Obs, sat2id, sat2prn, gpst2bdt, time2gpst
+from src.cssrlib.gnss import timeadd, id2sat, gpst2utc
 
 
 class pclk_t:

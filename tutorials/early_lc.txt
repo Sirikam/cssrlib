@@ -1,0 +1,1287 @@
+[0]: local_corr
+[0].inet: 0
+[0].inet_ref: -1
+[0].ng: -1
+[0].pbias: dict (0)
+[0].cbias: dict (0)
+[0].iode: None
+[0].dorb: None
+[0].dclk: None
+[0].hclk: None
+[0].stec: None
+[0].trph: None
+[0].trpw: None
+[0].ci: None
+[0].ct: None
+[0].quality_trp: None
+[0].quality_stec: None
+[0].sat_n: list (0)
+[0].t0: dict (0)
+[0].cstat: 0
+[0].t0s: dict (5)
+[0].t0s.2: gtime_t
+[0].t0s.2.time: 0
+[0].t0s.2.sec: 0.0
+[0].t0s.1: gtime_t
+[0].t0s.1.time: 0
+[0].t0s.1.sec: 0.0
+[0].t0s.3: gtime_t
+[0].t0s.3.time: 0
+[0].t0s.3.sec: 0.0
+[0].t0s.4: gtime_t
+[0].t0s.4.time: 0
+[0].t0s.4.sec: 0.0
+[0].t0s.9: gtime_t
+[0].t0s.9.time: 0
+[0].t0s.9.sec: 0.0
+[0].flg_trop: 0
+[0].flg_stec: 0
+[0].nsat_n: 0
+[1]: local_corr
+[1].inet: 1
+[1].inet_ref: -1
+[1].ng: -1
+[1].pbias: dict (0)
+[1].cbias: dict (0)
+[1].iode: None
+[1].dorb: None
+[1].dclk: None
+[1].hclk: None
+[1].stec: None
+[1].trph: None
+[1].trpw: None
+[1].ci: None
+[1].ct: None
+[1].quality_trp: None
+[1].quality_stec: None
+[1].sat_n: list (0)
+[1].t0: dict (0)
+[1].cstat: 0
+[1].t0s: dict (5)
+[1].t0s.2: gtime_t
+[1].t0s.2.time: 0
+[1].t0s.2.sec: 0.0
+[1].t0s.1: gtime_t
+[1].t0s.1.time: 0
+[1].t0s.1.sec: 0.0
+[1].t0s.3: gtime_t
+[1].t0s.3.time: 0
+[1].t0s.3.sec: 0.0
+[1].t0s.4: gtime_t
+[1].t0s.4.time: 0
+[1].t0s.4.sec: 0.0
+[1].t0s.9: gtime_t
+[1].t0s.9.time: 0
+[1].t0s.9.sec: 0.0
+[1].flg_trop: 0
+[1].flg_stec: 0
+[1].nsat_n: 0
+[2]: local_corr
+[2].inet: 2
+[2].inet_ref: -1
+[2].ng: -1
+[2].pbias: dict (0)
+[2].cbias: dict (0)
+[2].iode: None
+[2].dorb: None
+[2].dclk: None
+[2].hclk: None
+[2].stec: None
+[2].trph: None
+[2].trpw: None
+[2].ci: None
+[2].ct: None
+[2].quality_trp: None
+[2].quality_stec: None
+[2].sat_n: list (0)
+[2].t0: dict (0)
+[2].cstat: 0
+[2].t0s: dict (5)
+[2].t0s.2: gtime_t
+[2].t0s.2.time: 0
+[2].t0s.2.sec: 0.0
+[2].t0s.1: gtime_t
+[2].t0s.1.time: 0
+[2].t0s.1.sec: 0.0
+[2].t0s.3: gtime_t
+[2].t0s.3.time: 0
+[2].t0s.3.sec: 0.0
+[2].t0s.4: gtime_t
+[2].t0s.4.time: 0
+[2].t0s.4.sec: 0.0
+[2].t0s.9: gtime_t
+[2].t0s.9.time: 0
+[2].t0s.9.sec: 0.0
+[2].flg_trop: 0
+[2].flg_stec: 0
+[2].nsat_n: 0
+[3]: local_corr
+[3].inet: 3
+[3].inet_ref: -1
+[3].ng: -1
+[3].pbias: dict (0)
+[3].cbias: dict (0)
+[3].iode: None
+[3].dorb: None
+[3].dclk: None
+[3].hclk: None
+[3].stec: None
+[3].trph: None
+[3].trpw: None
+[3].ci: None
+[3].ct: None
+[3].quality_trp: None
+[3].quality_stec: None
+[3].sat_n: list (0)
+[3].t0: dict (0)
+[3].cstat: 0
+[3].t0s: dict (5)
+[3].t0s.2: gtime_t
+[3].t0s.2.time: 0
+[3].t0s.2.sec: 0.0
+[3].t0s.1: gtime_t
+[3].t0s.1.time: 0
+[3].t0s.1.sec: 0.0
+[3].t0s.3: gtime_t
+[3].t0s.3.time: 0
+[3].t0s.3.sec: 0.0
+[3].t0s.4: gtime_t
+[3].t0s.4.time: 0
+[3].t0s.4.sec: 0.0
+[3].t0s.9: gtime_t
+[3].t0s.9.time: 0
+[3].t0s.9.sec: 0.0
+[3].flg_trop: 0
+[3].flg_stec: 0
+[3].nsat_n: 0
+[4]: local_corr
+[4].inet: 4
+[4].inet_ref: -1
+[4].ng: -1
+[4].pbias: dict (0)
+[4].cbias: dict (0)
+[4].iode: None
+[4].dorb: None
+[4].dclk: None
+[4].hclk: None
+[4].stec: None
+[4].trph: None
+[4].trpw: None
+[4].ci: None
+[4].ct: None
+[4].quality_trp: None
+[4].quality_stec: None
+[4].sat_n: list (0)
+[4].t0: dict (0)
+[4].cstat: 0
+[4].t0s: dict (5)
+[4].t0s.2: gtime_t
+[4].t0s.2.time: 0
+[4].t0s.2.sec: 0.0
+[4].t0s.1: gtime_t
+[4].t0s.1.time: 0
+[4].t0s.1.sec: 0.0
+[4].t0s.3: gtime_t
+[4].t0s.3.time: 0
+[4].t0s.3.sec: 0.0
+[4].t0s.4: gtime_t
+[4].t0s.4.time: 0
+[4].t0s.4.sec: 0.0
+[4].t0s.9: gtime_t
+[4].t0s.9.time: 0
+[4].t0s.9.sec: 0.0
+[4].flg_trop: 0
+[4].flg_stec: 0
+[4].nsat_n: 0
+[5]: local_corr
+[5].inet: 5
+[5].inet_ref: -1
+[5].ng: -1
+[5].pbias: dict (0)
+[5].cbias: dict (0)
+[5].iode: None
+[5].dorb: None
+[5].dclk: None
+[5].hclk: None
+[5].stec: None
+[5].trph: None
+[5].trpw: None
+[5].ci: None
+[5].ct: None
+[5].quality_trp: None
+[5].quality_stec: None
+[5].sat_n: list (0)
+[5].t0: dict (0)
+[5].cstat: 0
+[5].t0s: dict (5)
+[5].t0s.2: gtime_t
+[5].t0s.2.time: 0
+[5].t0s.2.sec: 0.0
+[5].t0s.1: gtime_t
+[5].t0s.1.time: 0
+[5].t0s.1.sec: 0.0
+[5].t0s.3: gtime_t
+[5].t0s.3.time: 0
+[5].t0s.3.sec: 0.0
+[5].t0s.4: gtime_t
+[5].t0s.4.time: 0
+[5].t0s.4.sec: 0.0
+[5].t0s.9: gtime_t
+[5].t0s.9.time: 0
+[5].t0s.9.sec: 0.0
+[5].flg_trop: 0
+[5].flg_stec: 0
+[5].nsat_n: 0
+[6]: local_corr
+[6].inet: 6
+[6].inet_ref: -1
+[6].ng: -1
+[6].pbias: dict (0)
+[6].cbias: dict (0)
+[6].iode: None
+[6].dorb: None
+[6].dclk: None
+[6].hclk: None
+[6].stec: None
+[6].trph: None
+[6].trpw: None
+[6].ci: None
+[6].ct: None
+[6].quality_trp: None
+[6].quality_stec: None
+[6].sat_n: list (0)
+[6].t0: dict (0)
+[6].cstat: 0
+[6].t0s: dict (5)
+[6].t0s.2: gtime_t
+[6].t0s.2.time: 0
+[6].t0s.2.sec: 0.0
+[6].t0s.1: gtime_t
+[6].t0s.1.time: 0
+[6].t0s.1.sec: 0.0
+[6].t0s.3: gtime_t
+[6].t0s.3.time: 0
+[6].t0s.3.sec: 0.0
+[6].t0s.4: gtime_t
+[6].t0s.4.time: 0
+[6].t0s.4.sec: 0.0
+[6].t0s.9: gtime_t
+[6].t0s.9.time: 0
+[6].t0s.9.sec: 0.0
+[6].flg_trop: 0
+[6].flg_stec: 0
+[6].nsat_n: 0
+[7]: local_corr
+[7].inet: 7
+[7].inet_ref: -1
+[7].ng: -1
+[7].pbias: dict (0)
+[7].cbias: dict (0)
+[7].iode: None
+[7].dorb: None
+[7].dclk: None
+[7].hclk: None
+[7].stec: None
+[7].trph: None
+[7].trpw: None
+[7].ci: None
+[7].ct: None
+[7].quality_trp: None
+[7].quality_stec: None
+[7].sat_n: list (0)
+[7].t0: dict (0)
+[7].cstat: 0
+[7].t0s: dict (5)
+[7].t0s.2: gtime_t
+[7].t0s.2.time: 0
+[7].t0s.2.sec: 0.0
+[7].t0s.1: gtime_t
+[7].t0s.1.time: 0
+[7].t0s.1.sec: 0.0
+[7].t0s.3: gtime_t
+[7].t0s.3.time: 0
+[7].t0s.3.sec: 0.0
+[7].t0s.4: gtime_t
+[7].t0s.4.time: 0
+[7].t0s.4.sec: 0.0
+[7].t0s.9: gtime_t
+[7].t0s.9.time: 0
+[7].t0s.9.sec: 0.0
+[7].flg_trop: 0
+[7].flg_stec: 0
+[7].nsat_n: 0
+[8]: local_corr
+[8].inet: 8
+[8].inet_ref: -1
+[8].ng: -1
+[8].pbias: dict (0)
+[8].cbias: dict (0)
+[8].iode: None
+[8].dorb: None
+[8].dclk: None
+[8].hclk: None
+[8].stec: None
+[8].trph: None
+[8].trpw: None
+[8].ci: None
+[8].ct: None
+[8].quality_trp: None
+[8].quality_stec: None
+[8].sat_n: list (0)
+[8].t0: dict (0)
+[8].cstat: 0
+[8].t0s: dict (5)
+[8].t0s.2: gtime_t
+[8].t0s.2.time: 0
+[8].t0s.2.sec: 0.0
+[8].t0s.1: gtime_t
+[8].t0s.1.time: 0
+[8].t0s.1.sec: 0.0
+[8].t0s.3: gtime_t
+[8].t0s.3.time: 0
+[8].t0s.3.sec: 0.0
+[8].t0s.4: gtime_t
+[8].t0s.4.time: 0
+[8].t0s.4.sec: 0.0
+[8].t0s.9: gtime_t
+[8].t0s.9.time: 0
+[8].t0s.9.sec: 0.0
+[8].flg_trop: 0
+[8].flg_stec: 0
+[8].nsat_n: 0
+[9]: local_corr
+[9].inet: 9
+[9].inet_ref: -1
+[9].ng: -1
+[9].pbias: dict (0)
+[9].cbias: dict (0)
+[9].iode: None
+[9].dorb: None
+[9].dclk: None
+[9].hclk: None
+[9].stec: None
+[9].trph: None
+[9].trpw: None
+[9].ci: None
+[9].ct: None
+[9].quality_trp: None
+[9].quality_stec: None
+[9].sat_n: list (0)
+[9].t0: dict (0)
+[9].cstat: 0
+[9].t0s: dict (5)
+[9].t0s.2: gtime_t
+[9].t0s.2.time: 0
+[9].t0s.2.sec: 0.0
+[9].t0s.1: gtime_t
+[9].t0s.1.time: 0
+[9].t0s.1.sec: 0.0
+[9].t0s.3: gtime_t
+[9].t0s.3.time: 0
+[9].t0s.3.sec: 0.0
+[9].t0s.4: gtime_t
+[9].t0s.4.time: 0
+[9].t0s.4.sec: 0.0
+[9].t0s.9: gtime_t
+[9].t0s.9.time: 0
+[9].t0s.9.sec: 0.0
+[9].flg_trop: 0
+[9].flg_stec: 0
+[9].nsat_n: 0
+[10]: local_corr
+[10].inet: 10
+[10].inet_ref: -1
+[10].ng: -1
+[10].pbias: dict (0)
+[10].cbias: dict (0)
+[10].iode: None
+[10].dorb: None
+[10].dclk: None
+[10].hclk: None
+[10].stec: None
+[10].trph: None
+[10].trpw: None
+[10].ci: None
+[10].ct: None
+[10].quality_trp: None
+[10].quality_stec: None
+[10].sat_n: list (0)
+[10].t0: dict (0)
+[10].cstat: 0
+[10].t0s: dict (5)
+[10].t0s.2: gtime_t
+[10].t0s.2.time: 0
+[10].t0s.2.sec: 0.0
+[10].t0s.1: gtime_t
+[10].t0s.1.time: 0
+[10].t0s.1.sec: 0.0
+[10].t0s.3: gtime_t
+[10].t0s.3.time: 0
+[10].t0s.3.sec: 0.0
+[10].t0s.4: gtime_t
+[10].t0s.4.time: 0
+[10].t0s.4.sec: 0.0
+[10].t0s.9: gtime_t
+[10].t0s.9.time: 0
+[10].t0s.9.sec: 0.0
+[10].flg_trop: 0
+[10].flg_stec: 0
+[10].nsat_n: 0
+[11]: local_corr
+[11].inet: 11
+[11].inet_ref: -1
+[11].ng: -1
+[11].pbias: dict (0)
+[11].cbias: dict (0)
+[11].iode: None
+[11].dorb: None
+[11].dclk: None
+[11].hclk: None
+[11].stec: None
+[11].trph: None
+[11].trpw: None
+[11].ci: None
+[11].ct: None
+[11].quality_trp: None
+[11].quality_stec: None
+[11].sat_n: list (0)
+[11].t0: dict (0)
+[11].cstat: 0
+[11].t0s: dict (5)
+[11].t0s.2: gtime_t
+[11].t0s.2.time: 0
+[11].t0s.2.sec: 0.0
+[11].t0s.1: gtime_t
+[11].t0s.1.time: 0
+[11].t0s.1.sec: 0.0
+[11].t0s.3: gtime_t
+[11].t0s.3.time: 0
+[11].t0s.3.sec: 0.0
+[11].t0s.4: gtime_t
+[11].t0s.4.time: 0
+[11].t0s.4.sec: 0.0
+[11].t0s.9: gtime_t
+[11].t0s.9.time: 0
+[11].t0s.9.sec: 0.0
+[11].flg_trop: 0
+[11].flg_stec: 0
+[11].nsat_n: 0
+[12]: local_corr
+[12].inet: 12
+[12].inet_ref: -1
+[12].ng: -1
+[12].pbias: dict (0)
+[12].cbias: dict (0)
+[12].iode: None
+[12].dorb: None
+[12].dclk: None
+[12].hclk: None
+[12].stec: None
+[12].trph: None
+[12].trpw: None
+[12].ci: None
+[12].ct: None
+[12].quality_trp: None
+[12].quality_stec: None
+[12].sat_n: list (0)
+[12].t0: dict (0)
+[12].cstat: 0
+[12].t0s: dict (5)
+[12].t0s.2: gtime_t
+[12].t0s.2.time: 0
+[12].t0s.2.sec: 0.0
+[12].t0s.1: gtime_t
+[12].t0s.1.time: 0
+[12].t0s.1.sec: 0.0
+[12].t0s.3: gtime_t
+[12].t0s.3.time: 0
+[12].t0s.3.sec: 0.0
+[12].t0s.4: gtime_t
+[12].t0s.4.time: 0
+[12].t0s.4.sec: 0.0
+[12].t0s.9: gtime_t
+[12].t0s.9.time: 0
+[12].t0s.9.sec: 0.0
+[12].flg_trop: 0
+[12].flg_stec: 0
+[12].nsat_n: 0
+[13]: local_corr
+[13].inet: 13
+[13].inet_ref: -1
+[13].ng: -1
+[13].pbias: dict (0)
+[13].cbias: dict (0)
+[13].iode: None
+[13].dorb: None
+[13].dclk: None
+[13].hclk: None
+[13].stec: None
+[13].trph: None
+[13].trpw: None
+[13].ci: None
+[13].ct: None
+[13].quality_trp: None
+[13].quality_stec: None
+[13].sat_n: list (0)
+[13].t0: dict (0)
+[13].cstat: 0
+[13].t0s: dict (5)
+[13].t0s.2: gtime_t
+[13].t0s.2.time: 0
+[13].t0s.2.sec: 0.0
+[13].t0s.1: gtime_t
+[13].t0s.1.time: 0
+[13].t0s.1.sec: 0.0
+[13].t0s.3: gtime_t
+[13].t0s.3.time: 0
+[13].t0s.3.sec: 0.0
+[13].t0s.4: gtime_t
+[13].t0s.4.time: 0
+[13].t0s.4.sec: 0.0
+[13].t0s.9: gtime_t
+[13].t0s.9.time: 0
+[13].t0s.9.sec: 0.0
+[13].flg_trop: 0
+[13].flg_stec: 0
+[13].nsat_n: 0
+[14]: local_corr
+[14].inet: 14
+[14].inet_ref: -1
+[14].ng: -1
+[14].pbias: dict (0)
+[14].cbias: dict (0)
+[14].iode: None
+[14].dorb: None
+[14].dclk: None
+[14].hclk: None
+[14].stec: None
+[14].trph: None
+[14].trpw: None
+[14].ci: None
+[14].ct: None
+[14].quality_trp: None
+[14].quality_stec: None
+[14].sat_n: list (0)
+[14].t0: dict (0)
+[14].cstat: 0
+[14].t0s: dict (5)
+[14].t0s.2: gtime_t
+[14].t0s.2.time: 0
+[14].t0s.2.sec: 0.0
+[14].t0s.1: gtime_t
+[14].t0s.1.time: 0
+[14].t0s.1.sec: 0.0
+[14].t0s.3: gtime_t
+[14].t0s.3.time: 0
+[14].t0s.3.sec: 0.0
+[14].t0s.4: gtime_t
+[14].t0s.4.time: 0
+[14].t0s.4.sec: 0.0
+[14].t0s.9: gtime_t
+[14].t0s.9.time: 0
+[14].t0s.9.sec: 0.0
+[14].flg_trop: 0
+[14].flg_stec: 0
+[14].nsat_n: 0
+[15]: local_corr
+[15].inet: 15
+[15].inet_ref: -1
+[15].ng: -1
+[15].pbias: dict (0)
+[15].cbias: dict (0)
+[15].iode: None
+[15].dorb: None
+[15].dclk: None
+[15].hclk: None
+[15].stec: None
+[15].trph: None
+[15].trpw: None
+[15].ci: None
+[15].ct: None
+[15].quality_trp: None
+[15].quality_stec: None
+[15].sat_n: list (0)
+[15].t0: dict (0)
+[15].cstat: 0
+[15].t0s: dict (5)
+[15].t0s.2: gtime_t
+[15].t0s.2.time: 0
+[15].t0s.2.sec: 0.0
+[15].t0s.1: gtime_t
+[15].t0s.1.time: 0
+[15].t0s.1.sec: 0.0
+[15].t0s.3: gtime_t
+[15].t0s.3.time: 0
+[15].t0s.3.sec: 0.0
+[15].t0s.4: gtime_t
+[15].t0s.4.time: 0
+[15].t0s.4.sec: 0.0
+[15].t0s.9: gtime_t
+[15].t0s.9.time: 0
+[15].t0s.9.sec: 0.0
+[15].flg_trop: 0
+[15].flg_stec: 0
+[15].nsat_n: 0
+[16]: local_corr
+[16].inet: 16
+[16].inet_ref: -1
+[16].ng: -1
+[16].pbias: dict (0)
+[16].cbias: dict (0)
+[16].iode: None
+[16].dorb: None
+[16].dclk: None
+[16].hclk: None
+[16].stec: None
+[16].trph: None
+[16].trpw: None
+[16].ci: None
+[16].ct: None
+[16].quality_trp: None
+[16].quality_stec: None
+[16].sat_n: list (0)
+[16].t0: dict (0)
+[16].cstat: 0
+[16].t0s: dict (5)
+[16].t0s.2: gtime_t
+[16].t0s.2.time: 0
+[16].t0s.2.sec: 0.0
+[16].t0s.1: gtime_t
+[16].t0s.1.time: 0
+[16].t0s.1.sec: 0.0
+[16].t0s.3: gtime_t
+[16].t0s.3.time: 0
+[16].t0s.3.sec: 0.0
+[16].t0s.4: gtime_t
+[16].t0s.4.time: 0
+[16].t0s.4.sec: 0.0
+[16].t0s.9: gtime_t
+[16].t0s.9.time: 0
+[16].t0s.9.sec: 0.0
+[16].flg_trop: 0
+[16].flg_stec: 0
+[16].nsat_n: 0
+[17]: local_corr
+[17].inet: 17
+[17].inet_ref: -1
+[17].ng: -1
+[17].pbias: dict (0)
+[17].cbias: dict (0)
+[17].iode: None
+[17].dorb: None
+[17].dclk: None
+[17].hclk: None
+[17].stec: None
+[17].trph: None
+[17].trpw: None
+[17].ci: None
+[17].ct: None
+[17].quality_trp: None
+[17].quality_stec: None
+[17].sat_n: list (0)
+[17].t0: dict (0)
+[17].cstat: 0
+[17].t0s: dict (5)
+[17].t0s.2: gtime_t
+[17].t0s.2.time: 0
+[17].t0s.2.sec: 0.0
+[17].t0s.1: gtime_t
+[17].t0s.1.time: 0
+[17].t0s.1.sec: 0.0
+[17].t0s.3: gtime_t
+[17].t0s.3.time: 0
+[17].t0s.3.sec: 0.0
+[17].t0s.4: gtime_t
+[17].t0s.4.time: 0
+[17].t0s.4.sec: 0.0
+[17].t0s.9: gtime_t
+[17].t0s.9.time: 0
+[17].t0s.9.sec: 0.0
+[17].flg_trop: 0
+[17].flg_stec: 0
+[17].nsat_n: 0
+[18]: local_corr
+[18].inet: 18
+[18].inet_ref: -1
+[18].ng: -1
+[18].pbias: dict (0)
+[18].cbias: dict (0)
+[18].iode: None
+[18].dorb: None
+[18].dclk: None
+[18].hclk: None
+[18].stec: None
+[18].trph: None
+[18].trpw: None
+[18].ci: None
+[18].ct: None
+[18].quality_trp: None
+[18].quality_stec: None
+[18].sat_n: list (0)
+[18].t0: dict (0)
+[18].cstat: 0
+[18].t0s: dict (5)
+[18].t0s.2: gtime_t
+[18].t0s.2.time: 0
+[18].t0s.2.sec: 0.0
+[18].t0s.1: gtime_t
+[18].t0s.1.time: 0
+[18].t0s.1.sec: 0.0
+[18].t0s.3: gtime_t
+[18].t0s.3.time: 0
+[18].t0s.3.sec: 0.0
+[18].t0s.4: gtime_t
+[18].t0s.4.time: 0
+[18].t0s.4.sec: 0.0
+[18].t0s.9: gtime_t
+[18].t0s.9.time: 0
+[18].t0s.9.sec: 0.0
+[18].flg_trop: 0
+[18].flg_stec: 0
+[18].nsat_n: 0
+[19]: local_corr
+[19].inet: 19
+[19].inet_ref: -1
+[19].ng: -1
+[19].pbias: dict (0)
+[19].cbias: dict (0)
+[19].iode: None
+[19].dorb: None
+[19].dclk: None
+[19].hclk: None
+[19].stec: None
+[19].trph: None
+[19].trpw: None
+[19].ci: None
+[19].ct: None
+[19].quality_trp: None
+[19].quality_stec: None
+[19].sat_n: list (0)
+[19].t0: dict (0)
+[19].cstat: 0
+[19].t0s: dict (5)
+[19].t0s.2: gtime_t
+[19].t0s.2.time: 0
+[19].t0s.2.sec: 0.0
+[19].t0s.1: gtime_t
+[19].t0s.1.time: 0
+[19].t0s.1.sec: 0.0
+[19].t0s.3: gtime_t
+[19].t0s.3.time: 0
+[19].t0s.3.sec: 0.0
+[19].t0s.4: gtime_t
+[19].t0s.4.time: 0
+[19].t0s.4.sec: 0.0
+[19].t0s.9: gtime_t
+[19].t0s.9.time: 0
+[19].t0s.9.sec: 0.0
+[19].flg_trop: 0
+[19].flg_stec: 0
+[19].nsat_n: 0
+[20]: local_corr
+[20].inet: 20
+[20].inet_ref: -1
+[20].ng: -1
+[20].pbias: dict (0)
+[20].cbias: dict (0)
+[20].iode: None
+[20].dorb: None
+[20].dclk: None
+[20].hclk: None
+[20].stec: None
+[20].trph: None
+[20].trpw: None
+[20].ci: None
+[20].ct: None
+[20].quality_trp: None
+[20].quality_stec: None
+[20].sat_n: list (0)
+[20].t0: dict (0)
+[20].cstat: 0
+[20].t0s: dict (5)
+[20].t0s.2: gtime_t
+[20].t0s.2.time: 0
+[20].t0s.2.sec: 0.0
+[20].t0s.1: gtime_t
+[20].t0s.1.time: 0
+[20].t0s.1.sec: 0.0
+[20].t0s.3: gtime_t
+[20].t0s.3.time: 0
+[20].t0s.3.sec: 0.0
+[20].t0s.4: gtime_t
+[20].t0s.4.time: 0
+[20].t0s.4.sec: 0.0
+[20].t0s.9: gtime_t
+[20].t0s.9.time: 0
+[20].t0s.9.sec: 0.0
+[20].flg_trop: 0
+[20].flg_stec: 0
+[20].nsat_n: 0
+[21]: local_corr
+[21].inet: 21
+[21].inet_ref: -1
+[21].ng: -1
+[21].pbias: dict (0)
+[21].cbias: dict (0)
+[21].iode: None
+[21].dorb: None
+[21].dclk: None
+[21].hclk: None
+[21].stec: None
+[21].trph: None
+[21].trpw: None
+[21].ci: None
+[21].ct: None
+[21].quality_trp: None
+[21].quality_stec: None
+[21].sat_n: list (0)
+[21].t0: dict (0)
+[21].cstat: 0
+[21].t0s: dict (5)
+[21].t0s.2: gtime_t
+[21].t0s.2.time: 0
+[21].t0s.2.sec: 0.0
+[21].t0s.1: gtime_t
+[21].t0s.1.time: 0
+[21].t0s.1.sec: 0.0
+[21].t0s.3: gtime_t
+[21].t0s.3.time: 0
+[21].t0s.3.sec: 0.0
+[21].t0s.4: gtime_t
+[21].t0s.4.time: 0
+[21].t0s.4.sec: 0.0
+[21].t0s.9: gtime_t
+[21].t0s.9.time: 0
+[21].t0s.9.sec: 0.0
+[21].flg_trop: 0
+[21].flg_stec: 0
+[21].nsat_n: 0
+[22]: local_corr
+[22].inet: 22
+[22].inet_ref: -1
+[22].ng: -1
+[22].pbias: dict (0)
+[22].cbias: dict (0)
+[22].iode: None
+[22].dorb: None
+[22].dclk: None
+[22].hclk: None
+[22].stec: None
+[22].trph: None
+[22].trpw: None
+[22].ci: None
+[22].ct: None
+[22].quality_trp: None
+[22].quality_stec: None
+[22].sat_n: list (0)
+[22].t0: dict (0)
+[22].cstat: 0
+[22].t0s: dict (5)
+[22].t0s.2: gtime_t
+[22].t0s.2.time: 0
+[22].t0s.2.sec: 0.0
+[22].t0s.1: gtime_t
+[22].t0s.1.time: 0
+[22].t0s.1.sec: 0.0
+[22].t0s.3: gtime_t
+[22].t0s.3.time: 0
+[22].t0s.3.sec: 0.0
+[22].t0s.4: gtime_t
+[22].t0s.4.time: 0
+[22].t0s.4.sec: 0.0
+[22].t0s.9: gtime_t
+[22].t0s.9.time: 0
+[22].t0s.9.sec: 0.0
+[22].flg_trop: 0
+[22].flg_stec: 0
+[22].nsat_n: 0
+[23]: local_corr
+[23].inet: 23
+[23].inet_ref: -1
+[23].ng: -1
+[23].pbias: dict (0)
+[23].cbias: dict (0)
+[23].iode: None
+[23].dorb: None
+[23].dclk: None
+[23].hclk: None
+[23].stec: None
+[23].trph: None
+[23].trpw: None
+[23].ci: None
+[23].ct: None
+[23].quality_trp: None
+[23].quality_stec: None
+[23].sat_n: list (0)
+[23].t0: dict (0)
+[23].cstat: 0
+[23].t0s: dict (5)
+[23].t0s.2: gtime_t
+[23].t0s.2.time: 0
+[23].t0s.2.sec: 0.0
+[23].t0s.1: gtime_t
+[23].t0s.1.time: 0
+[23].t0s.1.sec: 0.0
+[23].t0s.3: gtime_t
+[23].t0s.3.time: 0
+[23].t0s.3.sec: 0.0
+[23].t0s.4: gtime_t
+[23].t0s.4.time: 0
+[23].t0s.4.sec: 0.0
+[23].t0s.9: gtime_t
+[23].t0s.9.time: 0
+[23].t0s.9.sec: 0.0
+[23].flg_trop: 0
+[23].flg_stec: 0
+[23].nsat_n: 0
+[24]: local_corr
+[24].inet: 24
+[24].inet_ref: -1
+[24].ng: -1
+[24].pbias: dict (0)
+[24].cbias: dict (0)
+[24].iode: None
+[24].dorb: None
+[24].dclk: None
+[24].hclk: None
+[24].stec: None
+[24].trph: None
+[24].trpw: None
+[24].ci: None
+[24].ct: None
+[24].quality_trp: None
+[24].quality_stec: None
+[24].sat_n: list (0)
+[24].t0: dict (0)
+[24].cstat: 0
+[24].t0s: dict (5)
+[24].t0s.2: gtime_t
+[24].t0s.2.time: 0
+[24].t0s.2.sec: 0.0
+[24].t0s.1: gtime_t
+[24].t0s.1.time: 0
+[24].t0s.1.sec: 0.0
+[24].t0s.3: gtime_t
+[24].t0s.3.time: 0
+[24].t0s.3.sec: 0.0
+[24].t0s.4: gtime_t
+[24].t0s.4.time: 0
+[24].t0s.4.sec: 0.0
+[24].t0s.9: gtime_t
+[24].t0s.9.time: 0
+[24].t0s.9.sec: 0.0
+[24].flg_trop: 0
+[24].flg_stec: 0
+[24].nsat_n: 0
+[25]: local_corr
+[25].inet: 25
+[25].inet_ref: -1
+[25].ng: -1
+[25].pbias: dict (0)
+[25].cbias: dict (0)
+[25].iode: None
+[25].dorb: None
+[25].dclk: None
+[25].hclk: None
+[25].stec: None
+[25].trph: None
+[25].trpw: None
+[25].ci: None
+[25].ct: None
+[25].quality_trp: None
+[25].quality_stec: None
+[25].sat_n: list (0)
+[25].t0: dict (0)
+[25].cstat: 0
+[25].t0s: dict (5)
+[25].t0s.2: gtime_t
+[25].t0s.2.time: 0
+[25].t0s.2.sec: 0.0
+[25].t0s.1: gtime_t
+[25].t0s.1.time: 0
+[25].t0s.1.sec: 0.0
+[25].t0s.3: gtime_t
+[25].t0s.3.time: 0
+[25].t0s.3.sec: 0.0
+[25].t0s.4: gtime_t
+[25].t0s.4.time: 0
+[25].t0s.4.sec: 0.0
+[25].t0s.9: gtime_t
+[25].t0s.9.time: 0
+[25].t0s.9.sec: 0.0
+[25].flg_trop: 0
+[25].flg_stec: 0
+[25].nsat_n: 0
+[26]: local_corr
+[26].inet: 26
+[26].inet_ref: -1
+[26].ng: -1
+[26].pbias: dict (0)
+[26].cbias: dict (0)
+[26].iode: None
+[26].dorb: None
+[26].dclk: None
+[26].hclk: None
+[26].stec: None
+[26].trph: None
+[26].trpw: None
+[26].ci: None
+[26].ct: None
+[26].quality_trp: None
+[26].quality_stec: None
+[26].sat_n: list (0)
+[26].t0: dict (0)
+[26].cstat: 0
+[26].t0s: dict (5)
+[26].t0s.2: gtime_t
+[26].t0s.2.time: 0
+[26].t0s.2.sec: 0.0
+[26].t0s.1: gtime_t
+[26].t0s.1.time: 0
+[26].t0s.1.sec: 0.0
+[26].t0s.3: gtime_t
+[26].t0s.3.time: 0
+[26].t0s.3.sec: 0.0
+[26].t0s.4: gtime_t
+[26].t0s.4.time: 0
+[26].t0s.4.sec: 0.0
+[26].t0s.9: gtime_t
+[26].t0s.9.time: 0
+[26].t0s.9.sec: 0.0
+[26].flg_trop: 0
+[26].flg_stec: 0
+[26].nsat_n: 0
+[27]: local_corr
+[27].inet: 27
+[27].inet_ref: -1
+[27].ng: -1
+[27].pbias: dict (0)
+[27].cbias: dict (0)
+[27].iode: None
+[27].dorb: None
+[27].dclk: None
+[27].hclk: None
+[27].stec: None
+[27].trph: None
+[27].trpw: None
+[27].ci: None
+[27].ct: None
+[27].quality_trp: None
+[27].quality_stec: None
+[27].sat_n: list (0)
+[27].t0: dict (0)
+[27].cstat: 0
+[27].t0s: dict (5)
+[27].t0s.2: gtime_t
+[27].t0s.2.time: 0
+[27].t0s.2.sec: 0.0
+[27].t0s.1: gtime_t
+[27].t0s.1.time: 0
+[27].t0s.1.sec: 0.0
+[27].t0s.3: gtime_t
+[27].t0s.3.time: 0
+[27].t0s.3.sec: 0.0
+[27].t0s.4: gtime_t
+[27].t0s.4.time: 0
+[27].t0s.4.sec: 0.0
+[27].t0s.9: gtime_t
+[27].t0s.9.time: 0
+[27].t0s.9.sec: 0.0
+[27].flg_trop: 0
+[27].flg_stec: 0
+[27].nsat_n: 0
+[28]: local_corr
+[28].inet: 28
+[28].inet_ref: -1
+[28].ng: -1
+[28].pbias: dict (0)
+[28].cbias: dict (0)
+[28].iode: None
+[28].dorb: None
+[28].dclk: None
+[28].hclk: None
+[28].stec: None
+[28].trph: None
+[28].trpw: None
+[28].ci: None
+[28].ct: None
+[28].quality_trp: None
+[28].quality_stec: None
+[28].sat_n: list (0)
+[28].t0: dict (0)
+[28].cstat: 0
+[28].t0s: dict (5)
+[28].t0s.2: gtime_t
+[28].t0s.2.time: 0
+[28].t0s.2.sec: 0.0
+[28].t0s.1: gtime_t
+[28].t0s.1.time: 0
+[28].t0s.1.sec: 0.0
+[28].t0s.3: gtime_t
+[28].t0s.3.time: 0
+[28].t0s.3.sec: 0.0
+[28].t0s.4: gtime_t
+[28].t0s.4.time: 0
+[28].t0s.4.sec: 0.0
+[28].t0s.9: gtime_t
+[28].t0s.9.time: 0
+[28].t0s.9.sec: 0.0
+[28].flg_trop: 0
+[28].flg_stec: 0
+[28].nsat_n: 0
+[29]: local_corr
+[29].inet: 29
+[29].inet_ref: -1
+[29].ng: -1
+[29].pbias: dict (0)
+[29].cbias: dict (0)
+[29].iode: None
+[29].dorb: None
+[29].dclk: None
+[29].hclk: None
+[29].stec: None
+[29].trph: None
+[29].trpw: None
+[29].ci: None
+[29].ct: None
+[29].quality_trp: None
+[29].quality_stec: None
+[29].sat_n: list (0)
+[29].t0: dict (0)
+[29].cstat: 0
+[29].t0s: dict (5)
+[29].t0s.2: gtime_t
+[29].t0s.2.time: 0
+[29].t0s.2.sec: 0.0
+[29].t0s.1: gtime_t
+[29].t0s.1.time: 0
+[29].t0s.1.sec: 0.0
+[29].t0s.3: gtime_t
+[29].t0s.3.time: 0
+[29].t0s.3.sec: 0.0
+[29].t0s.4: gtime_t
+[29].t0s.4.time: 0
+[29].t0s.4.sec: 0.0
+[29].t0s.9: gtime_t
+[29].t0s.9.time: 0
+[29].t0s.9.sec: 0.0
+[29].flg_trop: 0
+[29].flg_stec: 0
+[29].nsat_n: 0
+[30]: local_corr
+[30].inet: 30
+[30].inet_ref: -1
+[30].ng: -1
+[30].pbias: dict (0)
+[30].cbias: dict (0)
+[30].iode: None
+[30].dorb: None
+[30].dclk: None
+[30].hclk: None
+[30].stec: None
+[30].trph: None
+[30].trpw: None
+[30].ci: None
+[30].ct: None
+[30].quality_trp: None
+[30].quality_stec: None
+[30].sat_n: list (0)
+[30].t0: dict (0)
+[30].cstat: 0
+[30].t0s: dict (5)
+[30].t0s.2: gtime_t
+[30].t0s.2.time: 0
+[30].t0s.2.sec: 0.0
+[30].t0s.1: gtime_t
+[30].t0s.1.time: 0
+[30].t0s.1.sec: 0.0
+[30].t0s.3: gtime_t
+[30].t0s.3.time: 0
+[30].t0s.3.sec: 0.0
+[30].t0s.4: gtime_t
+[30].t0s.4.time: 0
+[30].t0s.4.sec: 0.0
+[30].t0s.9: gtime_t
+[30].t0s.9.time: 0
+[30].t0s.9.sec: 0.0
+[30].flg_trop: 0
+[30].flg_stec: 0
+[30].nsat_n: 0
+[31]: local_corr
+[31].inet: 31
+[31].inet_ref: -1
+[31].ng: -1
+[31].pbias: dict (0)
+[31].cbias: dict (0)
+[31].iode: None
+[31].dorb: None
+[31].dclk: None
+[31].hclk: None
+[31].stec: None
+[31].trph: None
+[31].trpw: None
+[31].ci: None
+[31].ct: None
+[31].quality_trp: None
+[31].quality_stec: None
+[31].sat_n: list (0)
+[31].t0: dict (0)
+[31].cstat: 0
+[31].t0s: dict (5)
+[31].t0s.2: gtime_t
+[31].t0s.2.time: 0
+[31].t0s.2.sec: 0.0
+[31].t0s.1: gtime_t
+[31].t0s.1.time: 0
+[31].t0s.1.sec: 0.0
+[31].t0s.3: gtime_t
+[31].t0s.3.time: 0
+[31].t0s.3.sec: 0.0
+[31].t0s.4: gtime_t
+[31].t0s.4.time: 0
+[31].t0s.4.sec: 0.0
+[31].t0s.9: gtime_t
+[31].t0s.9.time: 0
+[31].t0s.9.sec: 0.0
+[31].flg_trop: 0
+[31].flg_stec: 0
+[31].nsat_n: 0
+[32]: local_corr
+[32].inet: 32
+[32].inet_ref: -1
+[32].ng: -1
+[32].pbias: dict (0)
+[32].cbias: dict (0)
+[32].iode: None
+[32].dorb: None
+[32].dclk: None
+[32].hclk: None
+[32].stec: None
+[32].trph: None
+[32].trpw: None
+[32].ci: None
+[32].ct: None
+[32].quality_trp: None
+[32].quality_stec: None
+[32].sat_n: list (0)
+[32].t0: dict (0)
+[32].cstat: 0
+[32].t0s: dict (5)
+[32].t0s.2: gtime_t
+[32].t0s.2.time: 0
+[32].t0s.2.sec: 0.0
+[32].t0s.1: gtime_t
+[32].t0s.1.time: 0
+[32].t0s.1.sec: 0.0
+[32].t0s.3: gtime_t
+[32].t0s.3.time: 0
+[32].t0s.3.sec: 0.0
+[32].t0s.4: gtime_t
+[32].t0s.4.time: 0
+[32].t0s.4.sec: 0.0
+[32].t0s.9: gtime_t
+[32].t0s.9.time: 0
+[32].t0s.9.sec: 0.0
+[32].flg_trop: 0
+[32].flg_stec: 0
+[32].nsat_n: 0

@@ -1,0 +1,762 @@
+2023-08-11 21:00:20  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:20  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:20  G27 - edit - low elevation   9.5 deg
+2023-08-11 21:00:20  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:20  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:20  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:20  E10 - init  ambiguity  EL1C       72.071
+2023-08-11 21:00:20  E11 - init  ambiguity  EL1C       21.983
+2023-08-11 21:00:20  E12 - init  ambiguity  EL1C       53.413
+2023-08-11 21:00:20  E24 - init  ambiguity  EL1C       26.843
+2023-08-11 21:00:20  E31 - init  ambiguity  EL1C       80.022
+2023-08-11 21:00:20  E33 - init  ambiguity  EL1C      -28.954
+2023-08-11 21:00:20  G03 - init  ambiguity  GL1C      -10.110
+2023-08-11 21:00:20  G07 - init  ambiguity  GL1C      -11.155
+2023-08-11 21:00:20  G08 - init  ambiguity  GL1C       63.647
+2023-08-11 21:00:20  G14 - init  ambiguity  GL1C        7.392
+2023-08-11 21:00:20  G17 - init  ambiguity  GL1C        5.322
+2023-08-11 21:00:20  G21 - init  ambiguity  GL1C       76.867
+2023-08-11 21:00:20  G30 - init  ambiguity  GL1C        0.861
+2023-08-11 21:00:20  J02 - init  ambiguity  JL1C      331.782
+2023-08-11 21:00:20  J03 - init  ambiguity  JL1C       44.330
+2023-08-11 21:00:20  J04 - init  ambiguity  JL1C      -22.699
+2023-08-11 21:00:20  E10 - init  ambiguity  EL5Q       78.552
+2023-08-11 21:00:20  E11 - init  ambiguity  EL5Q       48.275
+2023-08-11 21:00:20  E12 - init  ambiguity  EL5Q       72.814
+2023-08-11 21:00:20  E24 - init  ambiguity  EL5Q       51.096
+2023-08-11 21:00:20  E31 - init  ambiguity  EL5Q      121.386
+2023-08-11 21:00:20  E33 - init  ambiguity  EL5Q      -28.036
+2023-08-11 21:00:20  G03 - init  ambiguity  GL2W      -32.569
+2023-08-11 21:00:20  G07 - init  ambiguity  GL2W      -22.705
+2023-08-11 21:00:20  G08 - init  ambiguity  GL2W       87.639
+2023-08-11 21:00:20  G14 - init  ambiguity  GL2W        9.259
+2023-08-11 21:00:20  G17 - init  ambiguity  GL2W       -2.702
+2023-08-11 21:00:20  G21 - init  ambiguity  GL2W       72.643
+2023-08-11 21:00:20  G30 - init  ambiguity  GL2W      -13.012
+2023-08-11 21:00:20  J02 - init  ambiguity  JL2L      418.909
+2023-08-11 21:00:20  J03 - init  ambiguity  JL2L       66.462
+2023-08-11 21:00:20  J04 - init  ambiguity  JL2L      -37.082
+2023-08-11 21:00:21  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:21  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:21  G27 - edit - low elevation   9.5 deg
+2023-08-11 21:00:21  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:21  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:21  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:22  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:22  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:22  G27 - edit - low elevation   9.5 deg
+2023-08-11 21:00:22  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:22  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:22  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:23  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:23  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:23  G27 - edit - low elevation   9.5 deg
+2023-08-11 21:00:23  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:23  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:23  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:24  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:24  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:24  G27 - edit - low elevation   9.5 deg
+2023-08-11 21:00:24  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:24  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:24  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:25  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:25  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:25  G27 - edit - low elevation   9.5 deg
+2023-08-11 21:00:25  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:25  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:25  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:25  G17 - reset ambiguity  GL1C
+2023-08-11 21:00:25  E33 - reset ambiguity  EL1C
+2023-08-11 21:00:25  E33 - init  ambiguity  EL1C      -29.551
+2023-08-11 21:00:25  G17 - init  ambiguity  GL1C        6.659
+2023-08-11 21:00:25  G17 - reset ambiguity  GL2W
+2023-08-11 21:00:25  E33 - reset ambiguity  EL5Q
+2023-08-11 21:00:25  E33 - init  ambiguity  EL5Q      -28.229
+2023-08-11 21:00:25  G17 - init  ambiguity  GL2W       -2.725
+2023-08-11 21:00:26  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:26  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:26  G27 - edit - low elevation   9.5 deg
+2023-08-11 21:00:26  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:26  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:26  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:27  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:27  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:27  G27 - edit - low elevation   9.5 deg
+2023-08-11 21:00:27  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:27  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:27  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:28  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:28  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:28  G27 - edit - low elevation   9.4 deg
+2023-08-11 21:00:28  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:28  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:28  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:29  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:29  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:29  G27 - edit - low elevation   9.4 deg
+2023-08-11 21:00:29  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:29  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:29  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:30  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:30  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:30  G27 - edit - low elevation   9.4 deg
+2023-08-11 21:00:30  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:30  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:30  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:31  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:31  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:31  G27 - edit - low elevation   9.4 deg
+2023-08-11 21:00:31  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:31  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:31  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:31  G17 - reset ambiguity  GL1C
+2023-08-11 21:00:31  E33 - reset ambiguity  EL1C
+2023-08-11 21:00:31  E33 - init  ambiguity  EL1C      -27.180
+2023-08-11 21:00:31  G17 - init  ambiguity  GL1C        5.737
+2023-08-11 21:00:31  G17 - reset ambiguity  GL2W
+2023-08-11 21:00:31  E33 - reset ambiguity  EL5Q
+2023-08-11 21:00:31  E33 - init  ambiguity  EL5Q      -27.907
+2023-08-11 21:00:31  G17 - init  ambiguity  GL2W       -3.062
+2023-08-11 21:00:32  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:32  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:32  G27 - edit - low elevation   9.4 deg
+2023-08-11 21:00:32  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:32  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:32  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:33  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:33  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:33  G27 - edit - low elevation   9.4 deg
+2023-08-11 21:00:33  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:33  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:33  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:34  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:34  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:34  G27 - edit - low elevation   9.4 deg
+2023-08-11 21:00:34  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:34  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:34  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:35  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:35  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:35  G27 - edit - low elevation   9.4 deg
+2023-08-11 21:00:35  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:35  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:35  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:36  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:36  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:36  G27 - edit - low elevation   9.4 deg
+2023-08-11 21:00:36  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:36  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:36  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:37  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:37  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:37  G27 - edit - low elevation   9.4 deg
+2023-08-11 21:00:37  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:37  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:37  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:37  G17 - reset ambiguity  GL1C
+2023-08-11 21:00:37  E33 - reset ambiguity  EL1C
+2023-08-11 21:00:37  E33 - init  ambiguity  EL1C      -25.731
+2023-08-11 21:00:37  G17 - init  ambiguity  GL1C        4.254
+2023-08-11 21:00:37  G17 - reset ambiguity  GL2W
+2023-08-11 21:00:37  E33 - reset ambiguity  EL5Q
+2023-08-11 21:00:37  E33 - init  ambiguity  EL5Q      -26.697
+2023-08-11 21:00:37  G17 - init  ambiguity  GL2W       -3.238
+2023-08-11 21:00:38  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:38  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:38  G27 - edit - low elevation   9.4 deg
+2023-08-11 21:00:38  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:38  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:38  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:39  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:39  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:39  G27 - edit - low elevation   9.4 deg
+2023-08-11 21:00:39  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:39  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:39  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:40  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:40  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:40  G27 - edit - low elevation   9.4 deg
+2023-08-11 21:00:40  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:40  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:40  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:41  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:41  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:41  G27 - edit - low elevation   9.4 deg
+2023-08-11 21:00:41  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:41  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:41  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:42  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:42  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:42  G27 - edit - low elevation   9.4 deg
+2023-08-11 21:00:42  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:42  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:42  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:43  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:43  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:43  G27 - edit - low elevation   9.4 deg
+2023-08-11 21:00:43  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:43  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:43  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:43  G17 - reset ambiguity  GL1C
+2023-08-11 21:00:43  E33 - reset ambiguity  EL1C
+2023-08-11 21:00:43  E33 - init  ambiguity  EL1C      -23.179
+2023-08-11 21:00:43  G17 - init  ambiguity  GL1C        3.063
+2023-08-11 21:00:43  G17 - reset ambiguity  GL2W
+2023-08-11 21:00:43  E33 - reset ambiguity  EL5Q
+2023-08-11 21:00:43  E33 - init  ambiguity  EL5Q      -28.105
+2023-08-11 21:00:43  G17 - init  ambiguity  GL2W       -3.517
+2023-08-11 21:00:44  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:44  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:44  G27 - edit - low elevation   9.4 deg
+2023-08-11 21:00:44  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:44  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:44  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:45  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:45  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:45  G27 - edit - low elevation   9.4 deg
+2023-08-11 21:00:45  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:45  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:45  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:46  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:46  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:46  G27 - edit - low elevation   9.4 deg
+2023-08-11 21:00:46  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:46  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:46  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:47  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:47  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:47  G27 - edit - low elevation   9.4 deg
+2023-08-11 21:00:47  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:47  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:47  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:48  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:48  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:48  G27 - edit - low elevation   9.4 deg
+2023-08-11 21:00:48  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:48  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:48  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:49  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:49  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:49  G27 - edit - low elevation   9.4 deg
+2023-08-11 21:00:49  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:49  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:49  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:49  G17 - reset ambiguity  GL1C
+2023-08-11 21:00:49  E33 - reset ambiguity  EL1C
+2023-08-11 21:00:49  E33 - init  ambiguity  EL1C      -24.204
+2023-08-11 21:00:49  G17 - init  ambiguity  GL1C        0.477
+2023-08-11 21:00:49  G17 - reset ambiguity  GL2W
+2023-08-11 21:00:49  E33 - reset ambiguity  EL5Q
+2023-08-11 21:00:49  E33 - init  ambiguity  EL5Q      -26.754
+2023-08-11 21:00:49  G17 - init  ambiguity  GL2W       -3.477
+2023-08-11 21:00:50  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:50  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:50  G27 - edit - low elevation   9.3 deg
+2023-08-11 21:00:50  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:50  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:50  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:51  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:51  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:51  G27 - edit - low elevation   9.3 deg
+2023-08-11 21:00:51  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:51  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:51  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:52  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:52  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:52  G27 - edit - low elevation   9.3 deg
+2023-08-11 21:00:52  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:52  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:52  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:53  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:53  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:53  G27 - edit - low elevation   9.3 deg
+2023-08-11 21:00:53  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:53  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:53  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:54  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:54  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:54  G27 - edit - low elevation   9.3 deg
+2023-08-11 21:00:54  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:54  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:54  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:55  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:55  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:55  G27 - edit - low elevation   9.3 deg
+2023-08-11 21:00:55  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:55  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:55  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:55  G17 - reset ambiguity  GL1C
+2023-08-11 21:00:55  E33 - reset ambiguity  EL1C
+2023-08-11 21:00:55  E33 - init  ambiguity  EL1C      -25.429
+2023-08-11 21:00:55  G17 - init  ambiguity  GL1C       -0.224
+2023-08-11 21:00:55  G17 - reset ambiguity  GL2W
+2023-08-11 21:00:55  E33 - reset ambiguity  EL5Q
+2023-08-11 21:00:55  E33 - init  ambiguity  EL5Q      -28.292
+2023-08-11 21:00:55  G17 - init  ambiguity  GL2W       -3.498
+2023-08-11 21:00:56  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:56  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:56  G27 - edit - low elevation   9.3 deg
+2023-08-11 21:00:56  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:56  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:56  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:57  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:57  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:57  G27 - edit - low elevation   9.3 deg
+2023-08-11 21:00:57  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:57  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:57  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:58  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:58  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:58  G27 - edit - low elevation   9.3 deg
+2023-08-11 21:00:58  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:58  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:58  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:00:59  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:00:59  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:00:59  G27 - edit - low elevation   9.3 deg
+2023-08-11 21:00:59  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:00:59  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:00:59  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:00  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:00  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:00  G27 - edit - low elevation   9.3 deg
+2023-08-11 21:01:00  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:00  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:01:00  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:01  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:01  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:01  G27 - edit - low elevation   9.3 deg
+2023-08-11 21:01:01  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:01  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:01:01  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:01  G17 - reset ambiguity  GL1C
+2023-08-11 21:01:01  E33 - reset ambiguity  EL1C
+2023-08-11 21:01:01  E33 - init  ambiguity  EL1C      -25.238
+2023-08-11 21:01:01  G17 - init  ambiguity  GL1C        1.558
+2023-08-11 21:01:01  G17 - reset ambiguity  GL2W
+2023-08-11 21:01:01  E33 - reset ambiguity  EL5Q
+2023-08-11 21:01:01  E33 - init  ambiguity  EL5Q      -28.608
+2023-08-11 21:01:01  G17 - init  ambiguity  GL2W       -3.388
+2023-08-11 21:01:02  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:02  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:02  G27 - edit - low elevation   9.3 deg
+2023-08-11 21:01:02  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:02  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:01:02  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:03  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:03  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:03  G27 - edit - low elevation   9.3 deg
+2023-08-11 21:01:03  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:03  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:01:03  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:04  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:04  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:04  G27 - edit - low elevation   9.3 deg
+2023-08-11 21:01:04  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:04  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:01:04  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:05  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:05  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:05  G27 - edit - low elevation   9.3 deg
+2023-08-11 21:01:05  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:05  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:01:05  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:06  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:06  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:06  G27 - edit - low elevation   9.3 deg
+2023-08-11 21:01:06  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:06  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:01:06  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:07  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:07  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:07  G27 - edit - low elevation   9.3 deg
+2023-08-11 21:01:07  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:07  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:01:07  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:07  G17 - reset ambiguity  GL1C
+2023-08-11 21:01:07  E33 - reset ambiguity  EL1C
+2023-08-11 21:01:07  E33 - init  ambiguity  EL1C      -27.466
+2023-08-11 21:01:07  G17 - init  ambiguity  GL1C       -0.271
+2023-08-11 21:01:07  G17 - reset ambiguity  GL2W
+2023-08-11 21:01:07  E33 - reset ambiguity  EL5Q
+2023-08-11 21:01:07  E33 - init  ambiguity  EL5Q      -28.058
+2023-08-11 21:01:07  G17 - init  ambiguity  GL2W       -3.289
+2023-08-11 21:01:08  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:08  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:08  G27 - edit - low elevation   9.3 deg
+2023-08-11 21:01:08  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:08  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:01:08  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:09  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:09  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:09  G27 - edit - low elevation   9.3 deg
+2023-08-11 21:01:09  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:09  E36 - edit - low elevation -89.8 deg
+2023-08-11 21:01:09  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:10  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:10  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:10  G27 - edit - low elevation   9.3 deg
+2023-08-11 21:01:10  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:10  E36 - edit - low elevation   6.1 deg
+2023-08-11 21:01:10  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:11  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:11  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:11  G27 - edit - low elevation   9.3 deg
+2023-08-11 21:01:11  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:11  E36 - edit - low elevation   6.1 deg
+2023-08-11 21:01:11  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:12  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:12  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:12  G27 - edit - low elevation   9.3 deg
+2023-08-11 21:01:12  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:12  E36 - edit - low elevation   6.1 deg
+2023-08-11 21:01:12  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:13  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:13  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:13  G27 - edit - low elevation   9.2 deg
+2023-08-11 21:01:13  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:13  E36 - edit - low elevation   6.1 deg
+2023-08-11 21:01:13  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:13  G17 - reset ambiguity  GL1C
+2023-08-11 21:01:13  E33 - reset ambiguity  EL1C
+2023-08-11 21:01:13  E33 - init  ambiguity  EL1C      -28.953
+2023-08-11 21:01:13  G17 - init  ambiguity  GL1C        0.593
+2023-08-11 21:01:13  G17 - reset ambiguity  GL2W
+2023-08-11 21:01:13  E33 - reset ambiguity  EL5Q
+2023-08-11 21:01:13  E33 - init  ambiguity  EL5Q      -27.229
+2023-08-11 21:01:13  G17 - init  ambiguity  GL2W       -3.156
+2023-08-11 21:01:14  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:14  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:14  G27 - edit - low elevation   9.2 deg
+2023-08-11 21:01:14  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:14  E36 - edit - low elevation   6.1 deg
+2023-08-11 21:01:14  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:15  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:15  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:15  G27 - edit - low elevation   9.2 deg
+2023-08-11 21:01:15  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:15  E36 - edit - low elevation   6.1 deg
+2023-08-11 21:01:15  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:16  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:16  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:16  G27 - edit - low elevation   9.2 deg
+2023-08-11 21:01:16  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:16  E36 - edit - low elevation   6.1 deg
+2023-08-11 21:01:16  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:17  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:17  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:17  G27 - edit - low elevation   9.2 deg
+2023-08-11 21:01:17  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:17  E36 - edit - low elevation   6.1 deg
+2023-08-11 21:01:17  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:18  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:18  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:18  G27 - edit - low elevation   9.2 deg
+2023-08-11 21:01:18  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:18  E36 - edit - low elevation   6.1 deg
+2023-08-11 21:01:18  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:19  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:19  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:19  G27 - edit - low elevation   9.2 deg
+2023-08-11 21:01:19  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:19  E36 - edit - low elevation   6.1 deg
+2023-08-11 21:01:19  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:19  G17 - reset ambiguity  GL1C
+2023-08-11 21:01:19  E33 - reset ambiguity  EL1C
+2023-08-11 21:01:19  E33 - init  ambiguity  EL1C      -30.748
+2023-08-11 21:01:19  G17 - init  ambiguity  GL1C       -1.812
+2023-08-11 21:01:19  G17 - reset ambiguity  GL2W
+2023-08-11 21:01:19  E33 - reset ambiguity  EL5Q
+2023-08-11 21:01:19  E33 - init  ambiguity  EL5Q      -28.088
+2023-08-11 21:01:19  G17 - init  ambiguity  GL2W       -3.120
+2023-08-11 21:01:20  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:20  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:20  G27 - edit - low elevation   9.2 deg
+2023-08-11 21:01:20  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:20  E36 - edit - low elevation   6.1 deg
+2023-08-11 21:01:20  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:21  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:21  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:21  G27 - edit - low elevation   9.2 deg
+2023-08-11 21:01:21  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:21  E36 - edit - low elevation   6.1 deg
+2023-08-11 21:01:21  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:22  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:22  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:22  G27 - edit - low elevation   9.2 deg
+2023-08-11 21:01:22  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:22  E36 - edit - low elevation   6.2 deg
+2023-08-11 21:01:22  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:23  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:23  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:23  G27 - edit - low elevation   9.2 deg
+2023-08-11 21:01:23  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:23  E36 - edit - low elevation   6.2 deg
+2023-08-11 21:01:23  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:24  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:24  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:24  G27 - edit - low elevation   9.2 deg
+2023-08-11 21:01:24  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:24  E36 - edit - low elevation   6.2 deg
+2023-08-11 21:01:24  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:25  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:25  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:25  G27 - edit - low elevation   9.2 deg
+2023-08-11 21:01:25  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:25  E36 - edit - low elevation   6.2 deg
+2023-08-11 21:01:25  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:25  G17 - reset ambiguity  GL1C
+2023-08-11 21:01:25  E33 - reset ambiguity  EL1C
+2023-08-11 21:01:25  E33 - init  ambiguity  EL1C      -31.681
+2023-08-11 21:01:25  G17 - init  ambiguity  GL1C        0.468
+2023-08-11 21:01:25  G17 - reset ambiguity  GL2W
+2023-08-11 21:01:25  E33 - reset ambiguity  EL5Q
+2023-08-11 21:01:25  E33 - init  ambiguity  EL5Q      -28.413
+2023-08-11 21:01:25  G17 - init  ambiguity  GL2W       -3.627
+2023-08-11 21:01:26  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:26  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:26  G27 - edit - low elevation   9.2 deg
+2023-08-11 21:01:26  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:26  E36 - edit - low elevation   6.2 deg
+2023-08-11 21:01:26  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:27  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:27  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:27  G27 - edit - low elevation   9.2 deg
+2023-08-11 21:01:27  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:27  E36 - edit - low elevation   6.2 deg
+2023-08-11 21:01:27  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:28  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:28  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:28  G27 - edit - low elevation   9.2 deg
+2023-08-11 21:01:28  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:28  E36 - edit - low elevation   6.2 deg
+2023-08-11 21:01:28  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:29  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:29  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:29  G27 - edit - low elevation   9.2 deg
+2023-08-11 21:01:29  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:29  E36 - edit - low elevation   6.2 deg
+2023-08-11 21:01:29  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:30  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:30  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:30  G27 - edit - low elevation   9.2 deg
+2023-08-11 21:01:30  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:30  E36 - edit - low elevation   6.2 deg
+2023-08-11 21:01:30  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:31  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:31  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:31  G27 - edit - low elevation   9.2 deg
+2023-08-11 21:01:31  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:31  E36 - edit - low elevation   6.2 deg
+2023-08-11 21:01:31  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:31  G17 - reset ambiguity  GL1C
+2023-08-11 21:01:31  E33 - reset ambiguity  EL1C
+2023-08-11 21:01:31  E33 - init  ambiguity  EL1C      -31.275
+2023-08-11 21:01:31  G17 - init  ambiguity  GL1C       -1.566
+2023-08-11 21:01:31  G17 - reset ambiguity  GL2W
+2023-08-11 21:01:31  E33 - reset ambiguity  EL5Q
+2023-08-11 21:01:31  E33 - init  ambiguity  EL5Q      -29.466
+2023-08-11 21:01:31  G17 - init  ambiguity  GL2W       -3.266
+2023-08-11 21:01:32  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:32  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:32  G27 - edit - low elevation   9.2 deg
+2023-08-11 21:01:32  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:32  E36 - edit - low elevation   6.2 deg
+2023-08-11 21:01:32  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:33  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:33  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:33  G27 - edit - low elevation   9.2 deg
+2023-08-11 21:01:33  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:33  E36 - edit - low elevation   6.2 deg
+2023-08-11 21:01:33  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:34  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:34  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:34  G27 - edit - low elevation   9.2 deg
+2023-08-11 21:01:34  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:34  E36 - edit - low elevation   6.2 deg
+2023-08-11 21:01:34  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:35  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:35  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:35  G27 - edit - low elevation   9.1 deg
+2023-08-11 21:01:35  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:35  E36 - edit - low elevation   6.2 deg
+2023-08-11 21:01:35  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:36  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:36  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:36  G27 - edit - low elevation   9.1 deg
+2023-08-11 21:01:36  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:36  E36 - edit - low elevation   6.2 deg
+2023-08-11 21:01:36  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:37  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:37  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:37  G27 - edit - low elevation   9.1 deg
+2023-08-11 21:01:37  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:37  E36 - edit - low elevation   6.2 deg
+2023-08-11 21:01:37  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:37  G17 - reset ambiguity  GL1C
+2023-08-11 21:01:37  E33 - reset ambiguity  EL1C
+2023-08-11 21:01:37  E33 - init  ambiguity  EL1C      -27.575
+2023-08-11 21:01:37  G17 - init  ambiguity  GL1C       -1.667
+2023-08-11 21:01:37  G17 - reset ambiguity  GL2W
+2023-08-11 21:01:37  E33 - reset ambiguity  EL5Q
+2023-08-11 21:01:37  E33 - init  ambiguity  EL5Q      -29.175
+2023-08-11 21:01:37  G17 - init  ambiguity  GL2W       -2.757
+2023-08-11 21:01:38  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:38  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:38  G27 - edit - low elevation   9.1 deg
+2023-08-11 21:01:38  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:38  E36 - edit - low elevation   6.2 deg
+2023-08-11 21:01:38  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:39  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:39  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:39  G27 - edit - low elevation   9.1 deg
+2023-08-11 21:01:39  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:39  E36 - edit - low elevation   6.2 deg
+2023-08-11 21:01:39  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:40  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:40  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:40  G27 - edit - low elevation -89.8 deg
+2023-08-11 21:01:40  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:40  E36 - edit - low elevation   6.2 deg
+2023-08-11 21:01:40  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:41  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:41  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:41  G27 - edit - low elevation -89.8 deg
+2023-08-11 21:01:41  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:41  E36 - edit - low elevation   6.2 deg
+2023-08-11 21:01:41  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:42  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:42  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:42  G27 - edit - low elevation -89.8 deg
+2023-08-11 21:01:42  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:42  E36 - edit - low elevation   6.2 deg
+2023-08-11 21:01:42  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:43  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:43  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:43  G27 - edit - low elevation -89.8 deg
+2023-08-11 21:01:43  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:43  E36 - edit - low elevation   6.2 deg
+2023-08-11 21:01:43  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:43  G17 - reset ambiguity  GL1C
+2023-08-11 21:01:43  E33 - reset ambiguity  EL1C
+2023-08-11 21:01:43  E33 - init  ambiguity  EL1C      -27.188
+2023-08-11 21:01:43  G17 - init  ambiguity  GL1C       -2.738
+2023-08-11 21:01:43  G17 - reset ambiguity  GL2W
+2023-08-11 21:01:43  E33 - reset ambiguity  EL5Q
+2023-08-11 21:01:43  E33 - init  ambiguity  EL5Q      -29.926
+2023-08-11 21:01:43  G17 - init  ambiguity  GL2W       -2.640
+2023-08-11 21:01:44  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:44  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:44  G27 - edit - low elevation -89.8 deg
+2023-08-11 21:01:44  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:44  E36 - edit - low elevation   6.2 deg
+2023-08-11 21:01:44  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:45  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:45  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:45  G27 - edit - low elevation -89.8 deg
+2023-08-11 21:01:45  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:45  E36 - edit - low elevation   6.3 deg
+2023-08-11 21:01:45  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:46  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:46  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:46  G27 - edit - low elevation -89.8 deg
+2023-08-11 21:01:46  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:46  E36 - edit - low elevation   6.3 deg
+2023-08-11 21:01:46  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:47  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:47  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:47  G27 - edit - low elevation -89.8 deg
+2023-08-11 21:01:47  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:47  E36 - edit - low elevation   6.3 deg
+2023-08-11 21:01:47  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:48  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:48  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:48  G27 - edit - low elevation -89.8 deg
+2023-08-11 21:01:48  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:48  E36 - edit - low elevation   6.3 deg
+2023-08-11 21:01:48  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:49  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:49  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:49  G27 - edit - low elevation -89.8 deg
+2023-08-11 21:01:49  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:49  E36 - edit - low elevation   6.3 deg
+2023-08-11 21:01:49  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:49  G17 - reset ambiguity  GL1C
+2023-08-11 21:01:49  E33 - reset ambiguity  EL1C
+2023-08-11 21:01:49  E33 - init  ambiguity  EL1C      -26.092
+2023-08-11 21:01:49  G17 - init  ambiguity  GL1C        2.264
+2023-08-11 21:01:49  G17 - reset ambiguity  GL2W
+2023-08-11 21:01:49  E33 - reset ambiguity  EL5Q
+2023-08-11 21:01:49  E33 - init  ambiguity  EL5Q      -29.549
+2023-08-11 21:01:49  G17 - init  ambiguity  GL2W       -2.920
+2023-08-11 21:01:50  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:50  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:50  G27 - edit - low elevation -89.8 deg
+2023-08-11 21:01:50  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:50  E36 - edit - low elevation   6.3 deg
+2023-08-11 21:01:50  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:51  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:51  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:51  G27 - edit - low elevation -89.8 deg
+2023-08-11 21:01:51  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:51  E36 - edit - low elevation   6.3 deg
+2023-08-11 21:01:51  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:52  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:52  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:52  G27 - edit - low elevation -89.8 deg
+2023-08-11 21:01:52  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:52  E36 - edit - low elevation   6.3 deg
+2023-08-11 21:01:52  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:53  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:53  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:53  G27 - edit - low elevation -89.8 deg
+2023-08-11 21:01:53  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:53  E36 - edit - low elevation   6.3 deg
+2023-08-11 21:01:53  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:54  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:54  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:54  G27 - edit - low elevation -89.8 deg
+2023-08-11 21:01:54  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:54  E36 - edit - low elevation   6.3 deg
+2023-08-11 21:01:54  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:55  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:55  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:55  G27 - edit - low elevation -89.8 deg
+2023-08-11 21:01:55  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:55  E36 - edit - low elevation   6.3 deg
+2023-08-11 21:01:55  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:55  E33 - reset ambiguity  EL1C
+2023-08-11 21:01:55  E33 - init  ambiguity  EL1C      -25.995
+2023-08-11 21:01:55  E33 - reset ambiguity  EL5Q
+2023-08-11 21:01:55  E33 - init  ambiguity  EL5Q      -30.711
+2023-08-11 21:01:56  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:56  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:56  G27 - edit - low elevation -89.8 deg
+2023-08-11 21:01:56  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:56  E36 - edit - low elevation   6.3 deg
+2023-08-11 21:01:56  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:57  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:57  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:57  G27 - edit - low elevation -89.8 deg
+2023-08-11 21:01:57  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:57  E36 - edit - low elevation   6.3 deg
+2023-08-11 21:01:57  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:58  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:58  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:58  G27 - edit - low elevation -89.8 deg
+2023-08-11 21:01:58  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:58  E36 - edit - low elevation   6.3 deg
+2023-08-11 21:01:58  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:01:59  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:01:59  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:01:59  G27 - edit - low elevation -89.8 deg
+2023-08-11 21:01:59  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:01:59  E36 - edit - low elevation   6.3 deg
+2023-08-11 21:01:59  J07 - edit - low elevation -89.8 deg
+2023-08-11 21:02:00  G01 - edit - low elevation -89.8 deg
+2023-08-11 21:02:00  G02 - edit - low elevation -89.8 deg
+2023-08-11 21:02:00  G27 - edit - low elevation -89.8 deg
+2023-08-11 21:02:00  E25 - edit - low elevation -89.8 deg
+2023-08-11 21:02:00  E36 - edit - low elevation   6.3 deg
+2023-08-11 21:02:00  J07 - edit - low elevation -89.8 deg

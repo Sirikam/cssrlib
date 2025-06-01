@@ -2,11 +2,11 @@
 module for ephemeris processing
 """
 
-from cssrlib.cssrlib import sCType
-from cssrlib.cssrlib import sCSSRTYPE as sc
+from src.cssrlib.cssrlib import sCType
+from src.cssrlib.cssrlib import sCSSRTYPE as sc
 import numpy as np
-from cssrlib.gnss import uGNSS, rCST, sat2prn, timediff, timeadd, vnorm
-from cssrlib.gnss import gtime_t, Geph, Eph, Alm, prn2sat, gpst2time, \
+from src.cssrlib.gnss import uGNSS, rCST, sat2prn, timediff, timeadd, vnorm
+from src.cssrlib.gnss import gtime_t, Geph, Eph, Alm, prn2sat, gpst2time, \
     time2gpst, timeget, time2gst, time2bdt, gst2time, bdt2time, epoch2time
 from datetime import datetime
 import xml.etree.ElementTree as et
@@ -15,6 +15,7 @@ MAX_ITER_KEPLER = 30
 RTOL_KEPLER = 1e-13
 
 MAXDTOE_t = {uGNSS.GPS: 7201.0, uGNSS.GAL: 14400.0, uGNSS.QZS: 7201.0,
+             uGNSS.BDS: 7201.0, uGNSS.IRN: 7201.0, uGNSS.GLO: 1800.0,
              uGNSS.BDS: 7201.0, uGNSS.IRN: 7201.0, uGNSS.GLO: 1800.0,
              uGNSS.SBS: 360.0}
 
@@ -519,14 +520,22 @@ def satposs(obs, nav, cs=None, orb=None):
     """
 
     n = obs.sat.shape[0]
+    print(n)
     rs = np.zeros((n, 3))
     vs = np.zeros((n, 3))
     dts = np.zeros(n)
     svh = np.zeros(n, dtype=int)
     iode = -1
     nsat = 0
+    selected_sats = [] # edit
 
     for i in range(n):
+
+        #print(f"--- Epoch satellite {i}: {obs.sat[i]} ---")
+        #print(f"  In cs.sat_n? {'yes' if obs.sat[i] in cs.sat_n else 'no'}")
+        #print(f"  In cs.lc[0].iode? {'yes' if obs.sat[i] in cs.lc[0].iode else 'no'}")
+        #print(f"  In cs.lc[0].dorb? {'yes' if obs.sat[i] in cs.lc[0].dorb else 'no'}")
+        #print(f"  In cs.lc[0].dclk? {'yes' if obs.sat[i] in cs.lc[0].dclk else 'no'}")
 
         sat = obs.sat[i]
         sys, _ = sat2prn(sat)
@@ -540,6 +549,7 @@ def satposs(obs, nav, cs=None, orb=None):
         t = timeadd(obs.t, -pr/rCST.CLIGHT)
 
         if nav.ephopt == 4:
+            #print("nav epht ==4")
 
             rs_, dts_, _ = orb.peph2pos(t, sat, nav)
             if rs_ is None or dts_ is None or np.isnan(dts_[0]):
@@ -590,6 +600,7 @@ def satposs(obs, nav, cs=None, orb=None):
                             continue
 
                 else:
+                    #print("some else function")
 
                     if cs.cssrmode == sc.GAL_HAS_SIS:  # HAS only
                         if cs.mask_id != cs.mask_id_clk:  # mask has changed
@@ -611,6 +622,7 @@ def satposs(obs, nav, cs=None, orb=None):
                     if cs.lc[0].cstat & (1 << sCType.HCLOCK) and \
                             sat in cs.lc[0].hclk.keys() and \
                             not np.isnan(cs.lc[0].hclk[sat]):
+
                         dclk += cs.lc[0].hclk[sat]
 
                     if cs.cssrmode in (sc.PVS_PPP, sc.SBAS_L1, sc.SBAS_L5):
@@ -627,6 +639,7 @@ def satposs(obs, nav, cs=None, orb=None):
                 mode = 0
 
             if sys == uGNSS.GLO:
+                #print("glonass computation")
                 geph = findeph(nav.geph, t, sat, iode, mode=mode)
                 if geph is None:
                     svh[i] = 1
@@ -664,9 +677,28 @@ def satposs(obs, nav, cs=None, orb=None):
             else:
                 rs[i, :], vs[i, :], dts[i] = eph2pos(t, eph, True)
 
-            # Apply SSR correction
-            #
-            if cs is not None:
+            # === Precomputed SSR State override ===
+            if nav.ephopt == 5 and sat in cs.lc[0].state:
+
+                rs[i, :] = cs.lc[0].state[sat]  # SSR-corrected position
+
+                # Refine clock with high-quality correction
+                dts[i] += dclk / rCST.CLIGHT
+
+                ers = vnorm(rs[i, :] - nav.x[0: 3])
+                dorb_ = -ers @ dorb
+                sis = dclk - dorb_
+                if cs.lc[0].t0[sat][sCType.ORBIT].time % 30 == 0 and \
+                        timediff(cs.lc[0].t0[sat][sCType.ORBIT], nav.time_p) > 0:
+                    if abs(nav.sis[sat]) > 0:
+                        nav.dsis[sat] = sis - nav.sis[sat]
+                    nav.sis[sat] = sis
+
+                nav.dorb[sat] = dorb_
+                nav.dclk[sat] = dclk
+
+            # === Apply SSR correction as usual ===
+            elif cs is not None and nav.ephopt != 5:
 
                 if cs.cssrmode == sc.BDS_PPP:
                     er = vnorm(rs[i, :])
@@ -704,14 +736,17 @@ def satposs(obs, nav, cs=None, orb=None):
 
                 nav.dorb[sat] = dorb_
                 nav.dclk[sat] = dclk
+
             elif nav.smode == 1 and nav.nf == 1:  # standalone positioing
                 dts[i] -= eph.tgd
 
             nsat += 1
+            selected_sats.append(sat)
 
     if cs is not None:
         if sat in cs.lc[0].t0 and sCType.ORBIT in cs.lc[0].t0[sat]:
             nav.time_p = cs.lc[0].t0[sat][sCType.ORBIT]
+            print("time updated")
 
     return rs, vs, dts, svh, nsat
 

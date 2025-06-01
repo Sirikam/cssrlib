@@ -1,0 +1,42 @@
+variable.		number,	index, CODEWORDS
+Week,			1	0	
+time,			2	1	
+SAT,			3	2
+signal,			4	3
+wavelength(m),		5	4
+azimuth(deg),		6	5	
+elevation(deg),		7	6
+range(m),		8	7
+X(m),			9	8
+Y(m),			10	9	
+Z(m), 			11	10	
+Nav clock (m),		12	11
+LowRate clock (m),	13	12
+HighRate clock(m),	14	13	
+orbit(m),		15	14	Radial, along, cross
+CodeBias(m),		16	15
+PhaseBias(m),		17	16
+STEC total(m),		18	17 	STEC
+STEC total(TECU),	19	18	ci?
+STEC GVI(TECU),		20	19	ci?
+STEC GSI(TECU),		21	20	ci?
+STEC RSI(TECU),		22	21	ci?
+STEC GRI(TECU),		23	22	ci?
+tropo(m),		24	23
+GT(m),			25	24
+RT(m),			26	25
+GRT(m),			27	26
+modelZTDdry(m),		28	27	
+modelZTDwet(m),		29	28	
+modelSTDdry(m),		30	29
+modelSTDwet(m),		31	30
+windup(cyc),		32	31	
+relativity(m),		33	32
+solidEarthTide dN(m),	34	33
+solidEarthTide dE(m),	35	34	
+solidEarthTide dU(m),	36	35
+mappingImprovement(m),	37	36
+iode            38  37
+radial          39  38
+along           40  39
+cross           41  40

@@ -773,7 +773,7 @@ class Nav():
         self.smode = 0  # position mode 0:NONE,1:std,2:DGPS,4:fix,5:float
         self.pmode = 1  # 0: static, 1: kinematic
         self.ephopt = 2  # ephemeris option 0: BRDC, 1: SBAS, 2: SSR-APC,
-        #                  3: SSR-CG, 4: PREC
+        #                  3: SSR-CG, 4: PREC, 5 SSRZ
         self.rmode = 0  # 0: IF not applied, 1: IF for L1/L2, 2: IF for L1/L5
 
         # 0:float-ppp,1:continuous,2:instantaneous,3:fix-and-hold
